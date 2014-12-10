@@ -1,0 +1,21 @@
+h1 {
+	font-style: monospace;
+}
+
+#sun {
+	float: left;
+	color:#000;
+	background-color: yellow;
+}
+
+#and {
+	float: left;
+	color:#f0f;
+}
+
+#moon {
+	float: left;
+	color:#fff;
+	background-color: black;
+}
+
